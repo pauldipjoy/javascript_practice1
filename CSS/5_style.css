@@ -1,0 +1,10 @@
+.my-btn {
+  height: 50px;
+  width: 100px;
+  margin: 20px;
+}
+
+.PIXEL {
+  box-shadow: 0 15px 18px 0 green;
+  opacity: 0.5;
+}
